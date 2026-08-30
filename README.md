@@ -323,26 +323,6 @@ Python • Requests • Regular Expressions • REST API Integration • Excepti
 
 ---
 
-## 🚀 Roadmap
-
-SENTINEL is designed to evolve through incremental releases.
-
-```text
-v0.1.0
-Initial HTTP & CVE Scanner
-        │
-        ▼
-v0.2.0
-Improved Detection & CVE Matching
-        │
-        ▼
-v0.3.0
-Reporting & CLI Improvements
-        │
-        ▼
-v1.0.0
-Stable Security Scanner
-```
 
 ### Planned Improvements
 
