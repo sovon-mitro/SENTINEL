@@ -129,7 +129,7 @@ pip install -r requirements.txt
 
 - Run the scanner:
 ```text
-python src/sentinel -v0.1.py
+python src/sentinel.py
 ```
 - Enter a target URL when prompted.
 
