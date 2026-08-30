@@ -118,7 +118,7 @@ CVE Results
 - Clone the repository:
 
 ```text
-git clone https://github.com/YOUR-USERNAME/SENTINEL.git
+git clone https://github.com/sovon-mitro/SENTINEL.git
 cd SENTINEL
 ```
 - Install the required dependencies:
@@ -129,7 +129,7 @@ pip install -r requirements.txt
 
 - Run the scanner:
 ```text
-python sentinel.py
+python src/sentinel -v0.1.py
 ```
 - Enter a target URL when prompted.
 
